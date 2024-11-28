@@ -1,6 +1,5 @@
 {% set name = "nnunet" %}
 {% set version = "1.7.1" %}
-{% set python_min = "3.9" %}
 
 package:
   name: {{ name|lower }}
